@@ -1,5 +1,0 @@
-{
-  "deployment": {
-    "fastapi_module": "backend.main:app"
-  }
-}
